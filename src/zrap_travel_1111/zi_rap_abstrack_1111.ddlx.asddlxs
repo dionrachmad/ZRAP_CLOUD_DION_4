@@ -1,0 +1,8 @@
+@Metadata.layer: #CORE //layer
+annotate entity ZI_RAP_ABSTRACK_1111 with
+{
+
+  @EndUserText.label: 'Keterangan'
+  keterangan;
+
+}
